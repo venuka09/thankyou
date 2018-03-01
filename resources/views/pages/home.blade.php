@@ -16,21 +16,18 @@
         <!-- Example row of columns -->
         <div class="row">
             <div class="col-md-4">
-                <h2>Hotels</h2>
-                <p>Why pay more? <br>
-                    Sign up for member prices and you could save 10% or more on thousands of hotels. </p>
+                <h2>Smile</h2>
+                <p>Day goes better with smile on your face </p>
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
             </div>
             <div class="col-md-4">
-                <h2>Flights</h2>
-                <p>Looking for the cheap flights within the United States? Expedia has everything you need, Find the
-                    cheapest airfares for our top US destinations. </p>
+                <h2>Be Happy</h2>
+                <p>You did great! Celebrate</p>
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
             </div>
             <div class="col-md-4">
-                <h2>Packages</h2>
-                <p>Expedia makes it easy to book European vacation packages. With top deals on international flights &
-                    hotels, anyone can discover Europe's hidden treasures - often at a discount. </p>
+                <h2>Patience</h2>
+                <p>He has something great in store for you!</p>
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
             </div>
         </div>

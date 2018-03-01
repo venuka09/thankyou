@@ -1,13 +1,13 @@
 /* Move down content because we have a fixed navbar that is 3.5rem tall */
 body {
     min-height: 1000px;
-    padding-top: 100px;
+    padding-top: 70px;
 }
 
 .jumbotron {
     padding-top: 200px;
     margin-bottom: 0px;
-    background-image: url(https://standertonadvertiser.co.za/wp-content/uploads/sites/95/2017/03/thank-you.jpg);
+    background-image: url(http://www.stickpng.com/assets/images/580b585b2edbce24c47b24d0.png);
     background-position: 20% 25%;
     background-size: cover;
     background-repeat: no-repeat;
